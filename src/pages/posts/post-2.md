@@ -7,6 +7,6 @@ image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "El logotipo de Astro sobre un fondo oscuro con un arco degradado en tonos púrpura."
 pubDate: 22-06-2026
-tags: ["astro", "bloguear", "aprender en público", "éxitos"]
+tags: ["astro", "bloguear", "aprender en publico", "éxitos"]
 ---
 Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
